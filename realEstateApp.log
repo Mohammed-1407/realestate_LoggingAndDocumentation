@@ -1,0 +1,10 @@
+Nov 02, 2025 10:23:58 PM org.example.LoggerConfig setup
+INFO: LoggerConfig initialized and logging to realEstateApp.log
+Nov 02, 2025 10:23:58 PM org.example.RealEstate <init>
+INFO: Called RealEstate(...) constructor city=Budapest, price=200000.00, sqm=100, rooms=4.0
+Nov 02, 2025 10:23:58 PM org.example.RealEstate <init>
+INFO: Called RealEstate(...) constructor city=Debrecen, price=150000.00, sqm=60, rooms=3.0
+Nov 02, 2025 10:23:58 PM org.example.Panel <init>
+INFO: Called Panel(...) constructor city=Debrecen, floor=2, insulated=true
+Nov 02, 2025 10:23:58 PM org.example.RealEstate getTotalPrice
+INFO: Called RealEstate.getTotalPrice()
